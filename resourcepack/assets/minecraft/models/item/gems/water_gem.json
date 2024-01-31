@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "item/air_gem",
-		"particle": "item/air_gem"
+		"0": "item/water_gem",
+		"particle": "item/water_gem"
 	},
 	"elements": [
 		{
