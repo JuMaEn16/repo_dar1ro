@@ -1,0 +1,21 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+     "layer0": "item/stick"
+    },
+   
+    "overrides": [
+        { "predicate": {"custom_model_data":1}, "model":"item/air_gem"},
+        { "predicate": {"custom_model_data":2}, "model":"item/earth_gem"},
+        { "predicate": {"custom_model_data":3}, "model":"item/fire_gem"},
+        { "predicate": {"custom_model_data":4}, "model":"item/frog_gem"},
+        { "predicate": {"custom_model_data":5}, "model":"item/golem_gem"},
+        { "predicate": {"custom_model_data":6}, "model":"item/miner_gem"},
+        { "predicate": {"custom_model_data":7}, "model":"item/phantom_gem"},
+        { "predicate": {"custom_model_data":8}, "model":"item/space_gem"},
+        { "predicate": {"custom_model_data":9}, "model":"item/speed_gem"},
+        { "predicate": {"custom_model_data":10}, "model":"item/strength_gem"},
+        { "predicate": {"custom_model_data":11}, "model":"item/water_gem"},
+        { "predicate": {"custom_model_data":12}, "model":"item/wealth_gem"}
+    ]
+}
