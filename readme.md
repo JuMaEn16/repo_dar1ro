@@ -5,7 +5,7 @@ Gems {([BLISS])}
 Dragon Egg -50% c
                                                                             Model:           Abilitee:
 Gems:
-1.Wata(under_wata_breathing 1,dolphins_grace 1) conduit=abilitee u=60s c=180s  x  
+1.Wata(under_wata_breathing 1,dolphins_grace 1) conduit=abilitee u=60s c=180s  x                 x
 2.Strengt(strength 1-2) 2=abilitee u=180s c=360s                               x
 3.Speed(speed 1-2) 2=abilitee u=180s c=300s                                    x
 4.Frog(jump_boost 1-2) 2=abilitee u=180s c=240s                                x
