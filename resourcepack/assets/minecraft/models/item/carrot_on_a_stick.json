@@ -16,6 +16,7 @@
         { "predicate": {"custom_model_data":9}, "model":"item/gems/speed_gem"},
         { "predicate": {"custom_model_data":10}, "model":"item/gems/strength_gem"},
         { "predicate": {"custom_model_data":11}, "model":"item/gems/water_gem"},
-        { "predicate": {"custom_model_data":12}, "model":"item/gems/wealth_gem"}
+        { "predicate": {"custom_model_data":12}, "model":"item/gems/wealth_gem"},
+        { "predicate": {"custom_model_data":20}, "model":"item/gem_converter"}
     ]
 }
