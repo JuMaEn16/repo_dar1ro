@@ -1,0 +1,12 @@
+scoreboard players set @s have_air_gem 0
+scoreboard players set @s have_earth_gem 0
+scoreboard players set @s have_fire_gem 0
+scoreboard players set @s have_frog_gem 0
+scoreboard players set @s have_golem_gem 0
+scoreboard players set @s have_miner_gem 0
+scoreboard players set @s have_phantom_gem 0
+scoreboard players set @s have_space_gem 0
+scoreboard players set @s have_speed_gem 0
+scoreboard players set @s have_strength_gem 0
+scoreboard players set @s have_water_gem 0
+scoreboard players set @s have_wealth_gem 0

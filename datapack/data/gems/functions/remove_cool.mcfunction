@@ -1,0 +1,12 @@
+execute if entity @s[scores={cool_pot_air_gem=1..}] run scoreboard players remove @s cool_pot_air_gem 1
+execute if entity @s[scores={cool_pot_earth_gem=1..}] run scoreboard players remove @s cool_pot_earth_gem 1
+execute if entity @s[scores={cool_pot_fire_gem=1..}] run scoreboard players remove @s cool_pot_fire_gem 1
+execute if entity @s[scores={cool_pot_frog_gem=1..}] run scoreboard players remove @s cool_pot_frog_gem 1
+execute if entity @s[scores={cool_pot_golem_gem=1..}] run scoreboard players remove @s cool_pot_golem_gem 1
+execute if entity @s[scores={cool_pot_miner_gem=1..}] run scoreboard players remove @s cool_pot_miner_gem 1
+execute if entity @s[scores={cool_pot_phantom_gem=1..}] run scoreboard players remove @s cool_pot_phantom_gem 1
+execute if entity @s[scores={cool_pot_space_gem=1..}] run scoreboard players remove @s cool_pot_space_gem 1
+execute if entity @s[scores={cool_pot_speed_gem=1..}] run scoreboard players remove @s cool_pot_speed_gem 1
+execute if entity @s[scores={cool_pot_strength_gem=1..}] run scoreboard players remove @s cool_pot_strength_gem 1
+execute if entity @s[scores={cool_pot_water_gem=1..}] run scoreboard players remove @s cool_pot_water_gem 1
+execute if entity @s[scores={cool_pot_wealth_gem=1..}] run scoreboard players remove @s cool_pot_wealth_gem 1

@@ -1,0 +1,1 @@
+execute as @e[tag=random_armor] at @s run setblock ~ ~ ~ air
