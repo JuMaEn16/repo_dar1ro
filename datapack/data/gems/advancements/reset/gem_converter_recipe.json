@@ -1,0 +1,14 @@
+{
+    "parent": "gems:reset",
+    "criteria": {
+      "requirement": {
+        "trigger": "minecraft:recipe_crafted",
+        "conditions": {
+          "recipe_id": "gems:gem_converter"
+        }
+      }
+    },
+    "rewards": {
+      "function": "gems:recipes/reset"
+    }
+}

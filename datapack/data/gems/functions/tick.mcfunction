@@ -16,6 +16,10 @@ execute as @a[scores={have_strength_gem=1}] at @s run function gems:gem/strength
 execute as @a[scores={have_water_gem=1}] at @s run function gems:gem/water/tick
 execute as @a[scores={have_wealth_gem=1}] at @s run function gems:gem/wealth/tick
 
+execute as @a[scores={right_click_gem=1..}] if entity @s[nbt={SelectedItem:{id:"minecraft:carrot_on_a_stick",Count:1b,tag:{CustomModelData:20}}}] run function gems:give/newgem
+
+scoreboard players set @a right_click_gem 0
+
 scoreboard players add @a[tag=GemTime] tick 1
 execute as @a[scores={tick=70..}] at @s run function gems:give/random_number
 title @a[scores={tick=1}] title {"text": "You have the...","color": "green"}

@@ -1,0 +1,7 @@
+{
+    "criteria": {
+      "reset_recipe": {
+        "trigger": "minecraft:impossible"
+      }
+    }
+}
