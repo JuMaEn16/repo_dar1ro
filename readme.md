@@ -19,7 +19,7 @@ Gems:
 12.phantom(invis)<----abilitee on/off                                          x                 x
 
 Ovals:
-Air(Cloud Glowing)<----- abilitee c=30s                                        x                  
+Air(2xCloud Glowing)<----- abilitee c=30s                                      x                  
 Earth                                                                          x
 Fire(Fireball EP:3b)<---- abilitee c=30s                                       x                 x
 Water
