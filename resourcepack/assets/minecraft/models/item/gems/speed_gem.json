@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"1": "item/speed_gem",
-		"particle": "item/speed_gem"
+		"1": "item/gems/speed_gem",
+		"particle": "item/gems/speed_gem"
 	},
 	"elements": [
 		{

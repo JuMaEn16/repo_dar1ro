@@ -17,6 +17,10 @@
         { "predicate": {"custom_model_data":10}, "model":"item/gems/strength_gem"},
         { "predicate": {"custom_model_data":11}, "model":"item/gems/water_gem"},
         { "predicate": {"custom_model_data":12}, "model":"item/gems/wealth_gem"},
-        { "predicate": {"custom_model_data":20}, "model":"item/gem_converter"}
+        { "predicate": {"custom_model_data":20}, "model":"item/gem_converter"},
+        { "predicate": {"custom_model_data":101}, "model":"item/ovals/air_oval"},
+        { "predicate": {"custom_model_data":102}, "model":"item/ovals/earth_oval"},
+        { "predicate": {"custom_model_data":103}, "model":"item/ovals/fire_oval"},
+        { "predicate": {"custom_model_data":104}, "model":"item/ovals/water_oval"}
     ]
 }

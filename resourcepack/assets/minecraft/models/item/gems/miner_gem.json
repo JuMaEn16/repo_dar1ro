@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"1": "item/miner_gem",
-		"particle": "item/miner_gem"
+		"1": "item/gems/miner_gem",
+		"particle": "item/gems/miner_gem"
 	},
 	"elements": [
 		{

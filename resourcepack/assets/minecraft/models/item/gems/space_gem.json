@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"1": "item/space_gem",
-		"particle": "item/space_gem"
+		"1": "item/gems/space_gem",
+		"particle": "item/gems/space_gem"
 	},
 	"elements": [
 		{

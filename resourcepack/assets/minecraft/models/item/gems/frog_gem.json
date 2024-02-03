@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"2": "item/frog_gem",
-		"particle": "item/frog_gem"
+		"2": "item/gems/frog_gem",
+		"particle": "item/gems/frog_gem"
 	},
 	"elements": [
 		{

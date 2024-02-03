@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"1": "item/strength_gem",
-		"particle": "item/strength_gem"
+		"1": "item/gems/strength_gem",
+		"particle": "item/gems/strength_gem"
 	},
 	"elements": [
 		{

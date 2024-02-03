@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"1": "item/wealth_gem",
-		"particle": "item/wealth_gem"
+		"1": "item/gems/wealth_gem",
+		"particle": "item/gems/wealth_gem"
 	},
 	"elements": [
 		{

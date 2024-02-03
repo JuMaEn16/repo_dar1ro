@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"1": "item/golem_gem",
-		"particle": "item/golem_gem"
+		"1": "item/gems/golem_gem",
+		"particle": "item/gems/golem_gem"
 	},
 	"elements": [
 		{
